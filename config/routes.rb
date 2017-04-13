@@ -1,3 +1,6 @@
 Rails.application.routes.draw do
-  # get '/api/users.', to: 'index', controller: 'api/user'
+
+  namespace :api do
+    get 'users', to: :show, controller: 'user'
+  end
 end
