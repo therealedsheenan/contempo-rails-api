@@ -1,6 +1,6 @@
 class Api::UserController < ApplicationController
-  def index
+  def users
     @users = User.all
-    json_response(@todos)
+    render json: @users
   end
 end
