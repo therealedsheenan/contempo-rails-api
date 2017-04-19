@@ -1,3 +1,5 @@
+![logo contempo](https://github.com/therealedsheenan/contempo-rails-api/blob/master/contempo-rails-api.png)
+
 # Contempo-rails-api
 Server API for contempo
 
