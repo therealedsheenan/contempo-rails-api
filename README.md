@@ -17,7 +17,10 @@ Server API for contempo
 
 ## Important
     Make sure that the client URL calls matches all the routes in this API.
-    Use the [contempo-auth]: https://github.com/therealedsheenan/contempo-auth
+    Use the contempo-auth.
+
+#### Links
+[contempo-auth](https://github.com/therealedsheenan/contempo-auth) - recommended client sample
 
 ### Disclaimer
 Work in progress
