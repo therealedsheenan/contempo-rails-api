@@ -1,6 +1,6 @@
 ![logo contempo](https://github.com/therealedsheenan/contempo-rails-api/blob/master/contempo-rails-api.png)
 
-# Contempo-rails-api
+# Contempo-rails-api [![Build Status](https://travis-ci.org/therealedsheenan/contempo-rails-api.svg?branch=master)](https://travis-ci.org/therealedsheenan/contempo-rails-api)
 Server API for contempo
 
 ## Routes
